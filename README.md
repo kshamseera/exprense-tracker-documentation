@@ -48,8 +48,30 @@ Link to the user-story: https://app.cardboardit.com/maps/guests/d2f893bfc5b428b4
 
 
 ##### R5. Wireframes for multiple standard screen sizes, created using industry standard software
+Mobile <br>
+
+![wireframe-login-reg-landing](docs/wireframes/m-login-reg-landing.png)
+
+![wireframe-add-list-edit](docs/wireframes/m-add-list-edit.png)
+
+<img src="docs/wireframes/m-reports.png" alt="wireframe-reports" height="310"/>
 
 
+Desktop<br>
+
+![wireframe-login](docs/wireframes/d-login.png)
+
+![wireframe-register](docs/wireframes/d-register.png)
+
+![wireframe-landing-page](docs/wireframes/d-landing-page.png)
+
+![wireframe-add-expense](docs/wireframes/d-add-expense.png)
+
+![wireframe-expense-list](docs/wireframes/d-expense-list.png)
+
+![wireframe-edit-expense](docs/wireframes/d-edit-expense.png)
+
+![wireframe-reports](docs/wireframes/d-reports.png)
 
 
 
@@ -62,7 +84,16 @@ Link to the user-story: https://app.cardboardit.com/maps/guests/d2f893bfc5b428b4
 
 09/07/2020
 ![screenshot200709a](docs/Trello/trello-screenshot-200709a.png)
+
 ![screenshot200709b](docs/Trello/trello-screenshot-200709b.png)
 
 10/07/2020
 ![screenshot200710a](docs/Trello/trello-screenshot-200710a.jpg)
+
+![screenshot200710b](docs/Trello/trello-screenshot-200710b.jpg)
+
+![screenshot200710c](docs/Trello/trello-screenshot-200710c.jpg)
+
+![screenshot200710d](docs/Trello/trello-screenshot-200710d.jpg)
+
+![screenshot200710e](docs/Trello/trello-screenshot-200710e.jpg)
