@@ -33,7 +33,7 @@ Mongo DB
 
 ##### R3. Application Architecture Diagram
 
-![Application-architecture-diagram](docs/architectural-diagram/architectural-diagram.png)
+![Application-architecture-diagram](docs/architectural-diagram/final-arch-diagram.png)
 
 
 ##### R4. User Stories:
