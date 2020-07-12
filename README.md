@@ -32,22 +32,44 @@ Users with the ability to interact with a simple interface, either desktop or mo
 * Balsamiq.cloud - For drawing Wireframes.
 * Cardboardit - For Creating User Stories.
 * Trello - For Project Management.
-
-##### R2. Dataflow Diagram
+---
+#### R2. Dataflow Diagram
 
 DFD for users: 
-![Dfd-Of-Users](docs/Dfd/dfd-page2.png)
+![Dfd-Of-Users](docs/Dfd/dfd1.png)
+
+**External Entities:**
+* User
+
+**Processes:**
+* 1.0: Regiser a new user and store the user details in database
+* 2.0: Login user with credential.User will be authenticated and get appropriate response.
+* 3.0: Update user information according to the request from user. It will also update the database.
+* 4.0: Delete user and update the database by removing corresponding user details.
+* 5.0: Add expenses, create new expense details for the authorised user. And stores details to the transactions database.
+* 6.0: View all expense details.
+* 7.0: View a single expense.
+* 8.0: Update expense details based on the request from user.Also update the databse.
+* 9.0: Delete expense based on the request from user. also update the database.
+* 10.0: Search expense details based on the request from user.
+* 11.0: Shows reports of expense based on the request from user.
+
+**Data Storages:**
+
+* users: It stores all details of a user.
+* transactions: it stores all the transaction details of a user
+
 
 DFD for transactions:
-![Dfd-of-transactions](docs/Dfd/dfd-page1.png)
 
-
-##### R3. Application Architecture Diagram
+![Dfd-of-transactions](docs/Dfd/dfd2.png)
+---
+#### R3. Application Architecture Diagram
 
 ![Application-architecture-diagram](docs/architectural-diagram/final-arch-diagram.png)
 
-
-##### R4. User Stories:
+---
+#### R4. User Stories:
 
 Initial user stories:
 ![userstory1](docs/userstories/user1-9-7-20.png)
@@ -58,8 +80,8 @@ Final user stories:
 
 Link to the user-story: https://app.cardboardit.com/maps/guests/d2f893bfc5b428b4efd0ad359293b037ec8cb0df16c620770199e49a03f2bd4b
 
-
-##### R5. Wireframes for multiple standard screen sizes, created using industry standard software
+---
+#### R5. Wireframes for multiple standard screen sizes, created using industry standard software
 Mobile <br>
 
 ![wireframe-login-reg-landing](docs/wireframes/m-login-reg-landing.png)
@@ -85,9 +107,9 @@ Desktop<br>
 
 ![wireframe-reports](docs/wireframes/d-reports.png)
 
+----
 
-
-##### R6. Screenshots of your Trello board demonstrating use throughout the initial stages of the project
+#### R6. Screenshots of your Trello board demonstrating use throughout the initial stages of the project
 04/07/2020
 ![screenshot200704](docs/Trello/trello-screenshot-200704.jpg)
 
