@@ -38,6 +38,10 @@ Users with the ability to interact with a simple interface, either desktop or mo
 DFD for users: 
 ![Dfd-Of-Users](docs/Dfd/dfd1.png)
 
+DFD for transactions:
+
+![Dfd-of-transactions](docs/Dfd/dfd2.png)
+
 **External Entities:**
 * User
 
@@ -58,11 +62,6 @@ DFD for users:
 
 * users: It stores all details of a user.
 * transactions: it stores all the transaction details of a user
-
-
-DFD for transactions:
-
-![Dfd-of-transactions](docs/Dfd/dfd2.png)
 ---
 #### R3. Application Architecture Diagram
 
